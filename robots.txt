@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eipaeyaevo.erc721.news/sitemap.xml
